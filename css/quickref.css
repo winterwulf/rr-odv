@@ -1,17 +1,6 @@
 /* ------------------------------------------------------------------------- */
 /* Sections */
 /* ------------------------------------------------------------------------- */
-
-::-webkit-scrollbar-thumb {
-    background-color: rgb(58, 66, 72);
-}
-::-webkit-scrollbar {
-    width: 9px;
-    height: 9px;
-    background: #475b6b;
-    background-color: #1f2020;
-}
-
 .section-container {
     border: 8px solid;
     border-radius: 8px;

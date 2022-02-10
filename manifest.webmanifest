@@ -1,0 +1,24 @@
+{
+	"manifest_version": 2,
+	"default_locale": "en",
+	"name": "Referência Rápida D&D 5e",
+	"short_name": "Referência Rápida D&D 5e",
+	"description": "Um guia, resumido e intuitivo, com as principais ações e características de um combate em Dungeons & Dragons 5e.",
+	"icons": [
+		{
+			"src": "/img/dragon-192.png",
+			"type": "image/png",
+			"sizes": "192x192"
+		},
+		{
+            "src": "/img/dragon.png",
+			"type": "image/png",
+			"sizes": "512x512"
+        }
+	],
+	"start_url": "index.html",
+    "theme_color": "#222222",
+    "background_color": "#333333",
+	"display": "fullscreen",
+	"prefer_related_applications": false
+}

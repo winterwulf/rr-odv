@@ -1,0 +1,20 @@
+{
+	"name": "Referência Rápida D&D 5e",
+	"short_name": "Ref DnD 5e",
+	"description": "Um guia, resumido e intuitivo, com as principais ações e características de um combate em Dungeons & Dragons 5e.",
+	"theme_color": "#222222",
+	"background_color": "#333333",
+	"display": "standalone",
+	"scope": "/",
+	"start_url": "index.html",
+	"lang": "pt-BR",
+	"orientation": "any",
+	"icons": [
+		{
+			"src": "/img/dragon.png",
+			"sizes": "512x512",
+			"type": "image/png"
+
+        }
+	]
+}
